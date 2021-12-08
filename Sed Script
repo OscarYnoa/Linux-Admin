@@ -1,0 +1,7 @@
+#!/usr/bin/sed  
+
+1i\ - Great Literary Characters -
+
+/^$/d
+
+$a\Happily Ever after. The End
